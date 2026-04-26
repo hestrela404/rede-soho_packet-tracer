@@ -3,7 +3,7 @@
 Documentação da rede simulado no Cisco Packet Tracer - IPs, serviços, topologia.
 # Rede Corporativa + Pessoal – Simulação Cisco Packet Tracer
 
-![Topologia da rede](imagens/topologia.jpg)
+![Topologia da rede](https://github.com/hestrela404/rede-soho_packet-tracer/blob/main/images/topologia.jpeg)
 
 ## Visão Geral
 Rede híbrida com dispositivos corporativos e pessoais, utilizando um switch central e um servidor local (VM Server) que fornece DNS, HTTP e FTP. O gateway padrão é `192.168.1.1`.
