@@ -22,4 +22,6 @@ Os arquivos podem ser visualizados diretamente no GitHub. O diagrama usa **Merma
 - Git + GitHub
 
 ## Autor
-Hawster Estrela Dias – (https://github.com/hestrela404)
+Hawster Estrela Dias 
+(LinkedIn: https://www.linkedin.com/in/hawster-estrela-dias/)
+(E-mail: hestreladias.ti@gmail.com)
